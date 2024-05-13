@@ -8,7 +8,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/master/common/genproto/taskmaster"
+	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/common/genproto/taskmaster"
 	"github.com/spf13/viper"
 	"google.golang.org/grpc"
 	//"google.golang.org/protobuf/types/known/emptypb"

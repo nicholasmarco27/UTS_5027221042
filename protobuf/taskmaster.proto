@@ -5,7 +5,7 @@ package protoapi;
 import "google/protobuf/Empty.proto";
 import "google/protobuf/Wrappers.proto";
 
-option go_package = "github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/master/common/taskmaster";
+option go_package = "github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/common/taskmaster";
 
 // entitas Task
 message Task {

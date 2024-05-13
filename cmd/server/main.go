@@ -8,9 +8,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/master/common/genproto/taskmaster"
-	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/master/common/repository"
-	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/master/common/service"
+	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/common/genproto/taskmaster"
+	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/common/repository"
+	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/common/service"
 	"github.com/spf13/viper"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"

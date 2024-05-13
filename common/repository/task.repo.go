@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/master/common/model"
+	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/common/model"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

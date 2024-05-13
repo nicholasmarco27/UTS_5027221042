@@ -4,9 +4,9 @@ import (
 	"context"
 	"log"
 
-	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/master/common/genproto/taskmaster"
-	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/master/common/model"
-	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/master/common/repository"
+	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/common/genproto/taskmaster"
+	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/common/model"
+	"github.com/nicholasmarco27/UTS_5027221042_Nicholas-Marco-Weinandra/common/repository"
 	"github.com/golang/protobuf/ptypes/empty"
 	"github.com/golang/protobuf/ptypes/wrappers"
 	"go.mongodb.org/mongo-driver/bson/primitive"
